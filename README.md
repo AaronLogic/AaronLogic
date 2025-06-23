@@ -1,4 +1,4 @@
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+Hi there! I'm Aaron Logic!
 
 <!--
 **AaronLogic/AaronLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
